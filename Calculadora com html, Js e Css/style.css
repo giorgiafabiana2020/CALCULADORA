@@ -1,0 +1,36 @@
+body{
+    height: 80vh;
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.principal {
+    width: 200px;
+    background-color: gray
+         
+    }
+.principal{
+        border-radius: 20px;
+        padding: 20px;
+    }
+
+    .button{
+        width: 40px;
+        height: 30px;
+        font-size: 20px;
+        margin: 2px;
+    }
+
+    .textview{
+        width: 180px;
+        height: 30px;
+        font-size: 20px;
+        }
+        
+        h2{
+            font-family: Arial;
+        }
+    
+
